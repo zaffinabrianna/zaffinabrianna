@@ -1,5 +1,5 @@
 <p align = "center">
-  ## Brianna Zaffina
+## Brianna Zaffina
 </p>
 <!--
 **zaffinabrianna/zaffinabrianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
