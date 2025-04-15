@@ -1,10 +1,7 @@
+![](https://komarev.com/ghpvc/?zaffinabrianna&color=f7d0f2)
 <h1 align = "center">
   Brianna Zaffina (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
 </h1>
-
-<h2 align = "right">
-![](https://komarev.com/ghpvc/?zaffinabrianna&color=f7d0f2)
-</h2>
 
 <h2 align = "center">
   About Me
