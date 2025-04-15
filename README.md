@@ -3,8 +3,10 @@
 </h1>
 
 <h2 align = "center">
-  About Me!!
+  About Me:
 </h2>
+
+<p>Hi!! My name is Brianna Zaffina. I am currently a junior in Computer Science at California State University! I really enjoy working on front-end and back-end but really want to learn how to do more!!!</p>
 <!--
 **zaffinabrianna/zaffinabrianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
