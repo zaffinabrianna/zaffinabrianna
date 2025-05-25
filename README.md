@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/zaffinabrianna/count.svg)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 <h1 align = "center">
   Brianna Zaffina (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
 </h1>
