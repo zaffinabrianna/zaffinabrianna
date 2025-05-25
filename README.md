@@ -1,4 +1,4 @@
-![Visitors](https://img.shields.io/badge/dynamic/json?color=green&label=visits&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fzaffinabrianna.github.io%2Fvisits)
+![Visitor Count](https : //profile-counter.glitch.me/zaffinabrianna/count.svg)
 <h1 align = "center">
   Brianna Zaffina (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
 </h1>
