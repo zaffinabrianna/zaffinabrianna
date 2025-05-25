@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?zaffinabrianna&color=f7d0f2&style=for-the-badge)
 <h1 align = "center">
-  <code style="color : magenta">
   Brianna Zaffina (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
-  </code>
 </h1>
 
 <h2 align = "center">
