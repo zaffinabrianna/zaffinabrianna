@@ -11,7 +11,7 @@
 
 <h2 align = "center">
   Languages and Tools
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  
 </h2>
 <!--
 **zaffinabrianna/zaffinabrianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
