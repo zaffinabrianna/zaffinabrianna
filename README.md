@@ -11,7 +11,7 @@
 
 <h2 align = "center">
   Languages and Tools
-  <be><br>
+  <br><br>
   <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
