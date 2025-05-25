@@ -8,17 +8,6 @@
 </h2>
 
 <p align = "center">Hi!! My name is Brianna Zaffina. I am currently a junior in Computer Science at California State University! I really enjoy working on front-end and back-end but really want to learn how to do more!!!</p>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zaffinabrianna&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zaffinabrianna&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=zaffinabrianna&show_icons=true" />
-</picture>
 
 <h2 align = "center">Languages and Tools</h2>
   <p align = "center">
