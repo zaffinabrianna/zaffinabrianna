@@ -10,6 +10,7 @@
 
 <p align = "center">Hi!! My name is Brianna Zaffina. I am currently a junior in Computer Science at California State University! I really enjoy working on front-end and back-end but really want to learn how to do more!!!</p>
 <p align = "center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <h2 align = "center">Languages and Tools</h2>
