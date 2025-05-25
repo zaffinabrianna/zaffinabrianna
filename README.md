@@ -13,8 +13,6 @@
   <p align = "center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,azure,cpp,c#"/>
-  </p>
-  <p align = "center">
     <img src="https://skillicons.dev/icons?i=css,electron,github,html,idea,js,linux,nodejs,npm,php,powershell,pycharm,py,robloxstudio,ubuntu,visualstudio,vscode,windows"/>
   </a>
   </p>
