@@ -9,15 +9,12 @@
 
 <p>Hi!! My name is Brianna Zaffina. I am currently a junior in Computer Science at California State University! I really enjoy working on front-end and back-end but really want to learn how to do more!!!</p>
 
-<h2 align = "center">
-  Languages and Tools
-  <br>
-  <p>
+<h2 align = "center">Languages and Tools</h2>
+  <p align = "center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,azure,cpp,c#,css,electron,github,html,idea,js,linux,nodejs,npm,php,powershell,pycharm,py,robloxstudio,ubuntu,visualstudio,vscode,windows&perline=5"/>
   </a>
   </p>
-</h2>
 <!--
 **zaffinabrianna/zaffinabrianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
