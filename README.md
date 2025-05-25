@@ -8,7 +8,9 @@
 </h2>
 
 <p align = "center">Hi!! My name is Brianna Zaffina. I am currently a junior in Computer Science at California State University! I really enjoy working on front-end and back-end but really want to learn how to do more!!!</p>
+<p align = "center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zaffinabrianna&theme=rose&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+</p>
 
 <h2 align = "center">Languages and Tools</h2>
   <p align = "center">
