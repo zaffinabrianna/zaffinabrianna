@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?zaffinabrianna&color=pink)
+![](https://komarev.com/ghpvc/?username=zaffinabrianna&color=pink)
 <h1 align = "center">
   Brianna Zaffina (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
 </h1>
