@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?zaffinabrianna&color=f7d0f2&style=for-the-badge)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=zaffinabrianna.zaffinabrianna&left_color=green&right_color=red)
 <h1 align = "center">
   Brianna Zaffina (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
 </h1>
