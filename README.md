@@ -1,7 +1,4 @@
-<p align = "left">
-  
 ![](https://komarev.com/ghpvc/?username=zaffinabrianna&color=ff69b4&style=for-the-badge)
-</p>
 <h1 align = "center">
   Brianna Zaffina (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
 </h1>
