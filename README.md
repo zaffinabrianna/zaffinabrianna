@@ -15,6 +15,8 @@
     <img src="https://skillicons.dev/icons?i=git,azure,cpp,css,electron,github,html,idea,js,linux,nodejs,npm,php,powershell,pycharm,py,robloxstudio,ubuntu,visualstudio,vscode,windows&perline=7"/>
   </a>
   </p>
+
+<h2 align = "center">Connect With Me!</h2>
 <!--
 **zaffinabrianna/zaffinabrianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
