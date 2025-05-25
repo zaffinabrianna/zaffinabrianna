@@ -1,4 +1,4 @@
-![Visitor Count](https : //profile-counter.glitch.me/zaffinabrianna/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/zaffinabrianna/count.svg)
 <h1 align = "center">
   Brianna Zaffina (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
 </h1>
