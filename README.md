@@ -1,4 +1,4 @@
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=zaffinabrianna.zaffinabrianna&left_color=green&right_color=red)
+![Visitors](https://img.shields.io/badge/dynamic/json?color=green&label=visits&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fzaffinabrianna.github.io%2Fvisits)
 <h1 align = "center">
   Brianna Zaffina (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
 </h1>
